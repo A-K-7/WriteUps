@@ -1,0 +1,20 @@
+body
+{
+    background-color: black;
+}
+.card
+{
+    background-color: dimgrey;
+}
+h1
+{
+    color:dimgrey;
+}
+.container
+{
+    padding: 5%;
+}
+h2
+{
+    color: whitesmoke;
+}
